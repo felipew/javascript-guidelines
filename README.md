@@ -8,23 +8,25 @@ Coding guidelines to javascript
 ## Airbnb guidelines
 
 Here are the Airbnb code guidelines:
-Code GuideLine: https://github.com/airbnb/javascript
-Code Guideline ES5-Only: https://github.com/airbnb/javascript/tree/master/es5 
+
+1. Code GuideLine: https://github.com/airbnb/javascript
+1. Code Guideline ES5-Only: https://github.com/airbnb/javascript/tree/master/es5 
 
 
 Here are the suggested modifications to the above coding guidelines:
-Change bla bla bla to bla bla bla
-Change etc etc etc to yoda yoda yoda
-Happy Towell Day!
+
+1. Change bla bla bla to bla bla bla
+1. Change etc etc etc to yoda yoda yoda
+1. Happy Towell Day!
 
 ## Rules
 
 The best approach to use these guidelines is to add a linter to your workflow, following are some rules to enforce the guidelines on the repo.
 
-Do not talk about the fight club.
-Always lint your code during development (plugins could be checked below)
-Always lint your code before build/deploy
-ONLY deploy with NO warnings (pre-commit/pre-push on main branches)
+1. Do not talk about the fight club.
+1. Always lint your code during development (plugins could be checked below)
+1. Always lint your code before build/deploy
+1. ONLY deploy with NO warnings (pre-commit/pre-push on main branches)
 
 
 
