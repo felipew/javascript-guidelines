@@ -1,8 +1,3 @@
-# javascript-guidelines
-
-Coding guidelines to javascript
-
-
 # Code Style - Javascript
 
 ## Airbnb guidelines
