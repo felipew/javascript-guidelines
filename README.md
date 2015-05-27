@@ -1,20 +1,20 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Code Style - Javascript](#code-style---javascript)
-  - [Airbnb guidelines](#airbnb-guidelines)
-  - [Rules](#rules)
+- [Code Style - Javascript](#code-style-javascript)
+    - [Airbnb guidelines](#airbnb-guidelines)
+    - [Rules](#rules)
 - [Linting your code](#linting-your-code)
-  - [Tools](#tools)
-    - [JSCS](#jscs)
-    - [Grunt-jscs](#grunt-jscs)
-    - [Gulp-jscs](#gulp-jscs)
-  - [Plugins](#plugins)
-    - [Sublime](#sublime)
-    - [Atom](#atom)
-    - [WebStorm](#webstorm)
-    - [Brackets](#brackets)
+    - [Tools](#tools)
+        - [JSCS](#jscs)
+        - [Grunt-jscs](#grunt-jscs)
+        - [Gulp-jscs](#gulp-jscs)
+    - [Plugins](#plugins)
+        - [Sublime](#sublime)
+        - [Atom](#atom)
+        - [WebStorm](#webstorm)
+        - [Brackets](#brackets)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
